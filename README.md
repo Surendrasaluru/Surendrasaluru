@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Surendrasaluru
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning the front end 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning the MERN STACK
+- 💞️ I’m looking to collaborate on frontend projects 
 - 📫 How to reach me ping me at surendrasaluru@gmail.com
 
 <!---
