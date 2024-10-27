@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Surendrasaluru
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning the MERN STACK
-- 💞️ I’m looking to collaborate on frontend projects 
-- 📫 How to reach me ping me at surendrasaluru@gmail.com
+- 👋 Hi, I’m SurenDrasaluru
+- 👀 Interested in web development
+- 🌱 Currently Working in Virtusa as KPO Analyst
+- 💞️ Working on Mern stack off the Office Work.
+- 📫 How to reach me ping me at surendrasaluru@gmail.com.
 
 <!---
 Surendrasaluru/Surendrasaluru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
