@@ -1,6 +1,8 @@
 <p align="center">
   <img src="github-header-banner.png" alt="Profile Banner" width="100%" />
 </p>
+
+
 # Hi there! I'm Surendra Saluru 👋
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=38B2AC&width=435&lines=MERN-Stack+Developer;Java+Programmer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 🚀 **Aspiring Full-Stack Developer** passionate about building scalable web applications and solving complex problems through Data Structures & Algorithms. Currently focused on mastering the **MERN stack** and **Java**. Always open to collaborating on interesting Open Source projects!
