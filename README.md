@@ -2,7 +2,7 @@
 - 👀 Interested in web development
 - 🌱 Currently Working in Virtusa as KPO Analyst
 - 💞️ Working on Mern stack off the Office Work.
-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Surendrasaluru&show_icons=true&theme=radical)
+- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Surendrasaluru&show_icons=true&theme=radical)
 - 📫 How to reach me ping me at surendrasaluru@gmail.com.
 
 <!---
